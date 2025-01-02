@@ -1,5 +1,6 @@
 {
-  "name": "shoppingcart",
+  "name": "e-plantShopping",
+  "homepage" : "http://JoeDeeK.github.io/e-plantShopping",
   "private": true,
   "version": "0.0.0",
   "type": "module",
